@@ -1,4 +1,4 @@
 /bin/
 .settings
 .project
-/WebContent/WEB-INF/classes
+WebContent/WEB-INF/classes/hibernate.properties
